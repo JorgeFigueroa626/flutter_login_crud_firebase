@@ -14,7 +14,6 @@
 <img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/ArchitectureApp.png" class="img-thumbnail">
 
 ## CAPTURAS DE PANTALLA
-
-<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen1.png" class="img-thumbnail">
-<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen2.png" class="img-thumbnail">
-<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen3.png" class="img-thumbnail">
+| Login screen                                |  User list                                |Create or edit user                               |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+| <img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen1.png" height="520"> | <img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen2.png" height="520"> | <img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen3.png" height="520"> |
