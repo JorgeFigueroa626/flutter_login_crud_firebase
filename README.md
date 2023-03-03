@@ -1,16 +1,20 @@
-# my_app_login
 
-A new Flutter project.
+#  APP Flutter: LOGIN Y CRUD simple con Firebase y Cubit
+-	Interfaz de usuario de FlutterFire: Interfaz de usuario de FlutterFire:
+-	Gestiona el estado con Cubit
+-	CRUD simple para almacenar lectura y escritura.
+-	Cargue y elimine imágenes en el almacenamiento de Firebase
+-	Separe la aplicación en varias capas (presentación, lógica comercial, datos)
+-	Pruebas de codo
 
-## Getting Started
+##  FLUJO
+<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/FlujoApp.png" class="img-thumbnail">
 
-This project is a starting point for a Flutter application.
+##  ARQUITECTURA
+<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/ArchitectureApp.png" class="img-thumbnail">
 
-A few resources to get you started if this is your first Flutter project:
+## CAPTURAS DE PANTALLA
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen1.png" class="img-thumbnail">
+<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen2.png" class="img-thumbnail">
+<img src="https://github.com/JorgeFigueroa626/flutter_login_crud_firebase/blob/main/imagen3.png" class="img-thumbnail">
